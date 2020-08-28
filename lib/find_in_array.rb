@@ -1,3 +1,9 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
+  
+  value_to_find = array.index{|x|}
+  
+  if value_to_find == x do
+    
+    
+  
 end
